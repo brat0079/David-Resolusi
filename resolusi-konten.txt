@@ -5,9 +5,7 @@ Membuat konten
   * javascript
   * c++
   * Python
-- membuat mambuat konten jalan-jalan
-- membuat konten belajar pemograman 
-  * python
   * c
   * php
+- membuat mambuat konten jalan-jalan
 - konten kolaborasi
