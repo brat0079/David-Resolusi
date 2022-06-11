@@ -7,5 +7,9 @@ Membuat konten
   * Python
   * c
   * php
+ - membuat konten framework
+  * Vue
+  * Angular js
+  * Node Js
 - membuat mambuat konten jalan-jalan
 - konten kolaborasi
