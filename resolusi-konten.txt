@@ -4,5 +4,6 @@ Membuat konten
 - membuat konten belajar pemograman
   * javascript
   * c++
+  * Python
 - membuat mambuat konten jalan-jalan
 - konten kolaborasi
