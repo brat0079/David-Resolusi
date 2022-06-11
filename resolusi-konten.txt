@@ -1,5 +1,9 @@
 Membuat konten 
 - membuat konten vlog mukbang
 - membuat konten horor
+- membuat konten belajar pemograman
+  * javascript
+  * c++
+  * Python
 - membuat mambuat konten jalan-jalan
 - konten kolaborasi
